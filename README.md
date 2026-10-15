@@ -140,3 +140,12 @@ The scraper can also be run from the Apify web console: schedule it daily, expor
 
 ---
 Output above is from real runs. Prices and rankings change constantly. MIT licensed.
+
+
+## See also
+
+More repos from this account:
+
+- [google-hotels-api](https://github.com/huynhtanan/google-hotels-api) - Python and Node.js examples for Google Hotels and Vacation Rentals
+- [walmart-deals-tracker](https://github.com/huynhtanan/walmart-deals-tracker) - Daily Walmart Rollback deal tracking with Python and SQLite
+- [google-hotels-mcp](https://github.com/huynhtanan/google-hotels-mcp) - MCP server for Claude Desktop: Google Hotels search, price calendar, and vacation rentals
