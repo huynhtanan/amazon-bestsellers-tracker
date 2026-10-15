@@ -1,0 +1,38 @@
+
+Amazon best sellers / electronics — top 5 per marketplace
+
+  amazon.com:
+    #1  blink plus plan with monthly auto-renewal                 $11.99  4.4 (281,100)
+    #2  Apple EarPods Headphones with USB-C Plug, Wired Ear       $19.00  4.5 (19,026)
+    #3  Apple AirTag (2nd Generation): Tracker for Keychain,      $24.00  4.6 (11,866)
+    #4  Apple AirPods Pro 3 Wireless Earbuds with Active Noi     $199.00  4.4 (16,462)
+    #5  Apple AirPods 5 Wireless Earbuds with Active Noise C     $129.00  4.3 (220)
+
+  amazon.co.uk:
+    #1  Amazon Basics 20-Pack AA Alkaline High-Performance B       £7.58  4.6 (930,935)
+    #2  DURACELL Plus 9V Alkaline Batteries (2 Pack) 6LR61 |       £6.50  4.7 (15,730)
+    #3  Amazon Basics 40-Pack AA Alkaline Industrial Batteri       £7.94  4.5 (101,364)
+    #4  DURACELL 2032 Lithium Coin Batteries (4 Pack) 3V, CR       £4.90  4.7 (144,677)
+    #5  DURACELL Plus AA Alkaline Batteries (30 Pack) 1.5V,       £18.49  4.8 (1,115)
+
+  amazon.fr:
+    #1  DURACELL 2032 Piles Boutons au Lithium (Lot de 8) 3V          --  4.7 (979)
+    #2  TOCOL Coque pour iPhone 15, Compatible avec MagSafe,          --  4.6 (417)
+    #3  Amazon Basics Lot de 20 piles alcalines AA haute per      7,32 €  4.6 (554)
+    #4  Apple EarPods (USB-C) ​​​​​​​                                 --  4.6 (689)
+    #5  Amazon Basics Lot de 6 piles bouton CR2032 au lithiu          --  4.7 (166)
+
+  amazon.it:
+    #1  NEW'C Pellicola Vetro per iPhone 17/17 Pro/16 Pro, i      8,19 €  4.4 (306,728)
+    #2  Amazon Basics, 36 batterie alcaline AAA ad alte pres      8,58 €  4.6 (855,344)
+    #3  TOCOL Cover Magnetica per iPhone 17 6,3 Pollic, Comp          --  4.6 (67,054)
+    #4  JBES Cuffie Bluetooth, Auricolari Bluetooth 5.4 In E          --  4.4 (4,466)
+    #5  HP 305 Nero e Tricromia, Confezione da 2 Cartucce In          --  4.6 (85,430)
+
+  amazon.co.jp:
+    #1  Amazon Fire TV Stick 4K Select | 4Kの高画質ストリーミング | ストリ          --  4.2
+    #2  【New】Amazon Fire TV Stick 4K | 4Kの高画質ストリーミング | 新しいFi          --  3.6
+    #3  NIMASO ガラスフィルム iPhone 17 用 保護フィルム 強化ガラス 耐衝撃 高透過率 指紋      ￥1,357  4.3
+    #4  Amazonベーシック 単3形 アルカリ乾電池 20本 1.5V 保存期限10年 液漏れ防止              ￥759  4.3
+    #5  Amazonベーシック 単4形 アルカリ乾電池 20本 1.5V 保存期限10年 液漏れ防止              ￥757  4.3
+
