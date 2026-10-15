@@ -142,6 +142,14 @@ The scraper can also be run from the Apify web console: schedule it daily, expor
 Output above is from real runs. Prices and rankings change constantly. MIT licensed.
 
 
+## Tutorials
+
+Deep-dive write-up on dev.to:
+
+- [Track Amazon Best Sellers in 17 country stores with Python and SQLite](https://dev.to/huynhtanan/track-amazon-best-sellers-in-17-country-stores-with-python-and-sqlite-3ncd)
+
+Full series (all four actors): [Apify + Python: scrapers, trackers, and Claude Desktop](https://dev.to/huynhtanan/series/45271).
+
 ## See also
 
 More repos from this account:
