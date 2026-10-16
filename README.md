@@ -146,7 +146,7 @@ Output above is from real runs. Prices and rankings change constantly. MIT licen
 
 Deep-dive write-up on dev.to:
 
-- [Track Amazon Best Sellers in 17 country stores with Python and SQLite](https://dev.to/huynhtanan/track-amazon-best-sellers-in-17-country-stores-with-python-and-sqlite-3ncd)
+- [Track Amazon Best Sellers in 17 country stores with Python and SQLite](https://dev.to/huynhtanan/track-amazon-best-sellers-in-17-country-stores-with-python-odm)
 
 Full series (all four actors): [Apify + Python: scrapers, trackers, and Claude Desktop](https://dev.to/huynhtanan/series/45271).
 
